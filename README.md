@@ -1,4 +1,21 @@
-# Neovim para Ciberseguridad y Scripting (Termux)
+<div align="center">
+
+# ⚡ Neovim para Ciberseguridad y Scripting
+
+### Guía práctica de atajos para Termux en Android
+
+![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?logo=neovim&logoColor=white)
+![Termux](https://img.shields.io/badge/Terminal-Termux-000000?logo=android&logoColor=white)
+![Licencia](https://img.shields.io/badge/Licencia-MIT-blue)
+
+**Edita scripts, trabaja con herramientas de pentesting y compila código desde tu móvil.**
+
+</div>
+
+Fuente: configuración de Neovim del laboratorio [i-HakLab](https://github.com/ivam3/i-haklab) (menú de ayuda).
+
+---
+
 
 Guía rápida de atajos de **Neovim**, pensada para usarse desde el móvil con **Termux**. Teclas a la izquierda, lo que hacen a la derecha.
 
