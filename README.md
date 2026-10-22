@@ -25,7 +25,7 @@ Fuente: configuración de Neovim del laboratorio [i-HakLab](https://github.com/i
 
 ---
 
-## Índice
+## 🧭 Índice de contenidos
 
 1. [Cómo leer esta guía](#cómo-leer-esta-guía)
 2. [Abrir, guardar y salir](#1-abrir-guardar-y-salir)
