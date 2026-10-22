@@ -430,9 +430,32 @@ Las marcas son marcadores para volver rápido a un punto del código.
 
 ---
 
-## Agradecimientos
+## 👨‍💻 Sobre el autor
 
-Este repositorio existe gracias a la comunidad de **[ivam3](https://github.com/ivam3)** y a su laboratorio **[i-HakLab](https://github.com/ivam3/i-haklab)**. El contenido parte del menú de ayuda de Neovim de i-HakLab, reorganizado y simplificado por [M3ilan](https://github.com/M3ilan) como primer proyecto personal en GitHub, con foco en ciberseguridad y scripting desde Termux.
+Soy **M3ilan**, estudiante autodidacta de ciberseguridad, interesado en el hacking ético, el pentesting, Linux y la inteligencia artificial aplicada a la seguridad.
+
+Aprendo mediante formación especializada, práctica en laboratorios y documentación técnica. Trabajo principalmente desde un smartphone Android con Termux.
+
+He creado este repositorio como proyecto personal para organizar y documentar en español los atajos de Neovim y facilitar su consulta desde el móvil.
+
+---
+
+## 📚 Fuente y créditos
+
+Este repositorio es un proyecto personal creado por mí, **M3ilan**. Para elaborar esta guía he utilizado como fuente de referencia la información del menú de ayuda de Neovim incluido en mi laboratorio i-HakLab.
+
+- **Iván (Ivam3):** https://github.com/ivam3 — perfil de GitHub donde publica sus repositorios y proyectos.
+- **i-HakLab:** https://github.com/ivam3/i-haklab — repositorio del laboratorio utilizado como referencia para consultar la configuración y la ayuda de Neovim.
+
+Mi agradecimiento a Iván y a la comunidad **Ivam3byCinderella**, de la que formo parte a través de Telegram y YouTube, por compartir herramientas y recursos que contribuyen al aprendizaje técnico.
+
+La elaboración, organización y documentación de esta guía son mi aportación personal. Los enlaces anteriores reconocen la procedencia de la herramienta y de la información utilizada como referencia.
+
+---
+
+## 🎯 Objetivo
+
+Seguir aprendiendo y especializándome en ciberseguridad, hacking ético, pentesting e inteligencia artificial aplicada a la ciberseguridad, explorando cómo utilizar la IA para desarrollar herramientas y recursos prácticos que ayuden a otras personas a aprender, mejorar su seguridad digital y protegerse frente a las amenazas.
 
 ---
 
